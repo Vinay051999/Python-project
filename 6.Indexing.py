@@ -5,3 +5,4 @@
 String="I Am Vinay"
 char=String[0] # Accessing the first character using positive indexing
 print("First character (positive indexing):", char) #printing the first characte
+print(String[5]) # Accessing the sixth character using positive indexing
