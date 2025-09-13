@@ -1,0 +1,5 @@
+f=open("C:/Users/vinay/DEVOPS/Python/File_I_and_O/fileIO.py","r")
+data = f.read()
+print(data)
+print(type(data))
+f.close()
